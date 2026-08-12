@@ -227,15 +227,15 @@ Explore my other projects related to **SQL, Python, Data Analytics, Power BI and
 <p align="center">
   <picture>
 
-    <source
+  <source
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/omchoudhary7356-coder/omchoudhary7356-coder/output/github-snake-dark.svg">
 
-    <source
+  <source
       media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/omchoudhary7356-coder/omchoudhary7356-coder/output/github-snake.svg">
 
-    <img
+   <img
       src="https://raw.githubusercontent.com/omchoudhary7356-coder/omchoudhary7356-coder/output/github-snake.svg"
       alt="GitHub Contribution Snake">
       
