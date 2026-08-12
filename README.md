@@ -222,22 +222,25 @@ Explore my other projects related to **SQL, Python, Data Analytics, Power BI and
 
 ---
 
-# 🐍 My Contribution Journey
+## 🐍 My Contribution Journey
 
 <p align="center">
+  <picture>
 
-<picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/omchoudhary7356-coder/omchoudhary7356-coder/output/github-snake-dark.svg">
 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omchoudhary7356-coder/omchoudhary7356-coder/output/github-snake-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/omchoudhary7356-coder/omchoudhary7356-coder/output/github-snake.svg">
 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omchoudhary7356-coder/omchoudhary7356-coder/output/github-snake.svg">
-
-<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/omchoudhary7356-coder/omchoudhary7356-coder/output/github-snake.svg">
-
-</picture>
-
+    <img
+      src="https://raw.githubusercontent.com/omchoudhary7356-coder/omchoudhary7356-coder/output/github-snake.svg"
+      alt="GitHub Contribution Snake">
+      
+  </picture>
 </p>
-
 ---
 
 # 🏆 GitHub Achievements
